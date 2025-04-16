@@ -1,5 +1,5 @@
 {
-  "name": "ajs_5_classes_inheritance",
+  "name": "ajs_5_methods",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Niklles/ajs_5_classes_inheritance.git"
+    "url": "git+https://github.com/Niklles/ajs_5_methods.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Niklles/ajs_5_classes_inheritance/issues"
+    "url": "https://github.com/Niklles/ajs_5_methods/issues"
   },
-  "homepage": "https://github.com/Niklles/ajs_5_classes_inheritance#readme",
+  "homepage": "https://github.com/Niklles/ajs_5_methods#readme",
   "devDependencies": {
     "@babel/cli": "^7.27.0",
     "@babel/core": "^7.26.10",
